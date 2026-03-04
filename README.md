@@ -1,4 +1,4 @@
-# Olá! Sou o Guilherme Santos 👋
+# Olá! Me chamo Guilherme dos Santos 👋
 ## **`Desenvolvedor Mobile`**
 
 Me chamo Guilherme dos Santos, desenvolvedor mobile React Native. Tenho 20 anos e sou de Curitiba - PR. Concluí curso técnico no SENAI - SISTEMA FIEP SENAI de Análise e Desenvolvimento de Sistemas, atualmente estou cursando ENGENHARIA DE SOFTWARE na UNINTER
